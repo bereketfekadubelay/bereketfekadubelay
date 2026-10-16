@@ -1,4 +1,5 @@
-<h1 align="center">Hello, I'm Bereket Fekadu Belay 👋</h1>
+
+ <h1 align="center">Hello, I'm Bereket Fekadu Belay 👋</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Grade%2012%20Natural%20Science-blue?style=for-the-badge&logo=googlesolar&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Systems%20Engineering%20%26%20Mechanics-orange?style=for-the-badge&logo=cisco&logoColor=white" />
@@ -34,7 +35,24 @@
 
 ---
 
-### 📊 GitHub Stats & Metrics
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bereketfekadubelay/bereketfekadubelay/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bereketfekadubelay&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" width="100%" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bereketfekadubelay&theme=radical&hide_border=true" width="100%" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bereketfekadubelay&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bereketfekadubelay&layout=compact&theme=radical&hide_border=true" width="48%" />
